@@ -29,6 +29,7 @@ Os principais gráficos do dashboard incluem:
 ![image](https://github.com/Gigatin/PowerBi-Projects/assets/56930645/d3028d69-4545-4b08-8b6e-f0debf8540e6)
 
 - **Faturamento Total por Bairro**: Demonstrando quais bairros têm maior volume de gastos na loja, o que pode ser útil para direcionar estratégias de marketing e estoque.
+- 
 ![image](https://github.com/Gigatin/PowerBi-Projects/assets/56930645/ef265e0b-2660-4e4a-a824-188be66b2bf3)
 
 - **Faturamento Total por Ano e Mês**: Apresenta a evolução das vendas da loja ao longo do tempo, identificando os meses com maior e menor volume de vendas. Isso pode ajudar na programação de promoções sazonais e na otimização do estoque.
