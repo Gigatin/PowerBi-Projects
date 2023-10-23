@@ -55,5 +55,5 @@ Novas visualizações incluem:
 
 Se você tiver alguma dúvida ou desejar mais informações sobre este projeto, sinta-se à vontade para entrar em contato.
 
-- Email: gabrielcaetano41@hotmail.com.com
+- Email: gabrielcaetano41@hotmail.com
 - LinkedIn: https://www.linkedin.com/in/gabriel-caetano-silva-motta-32181717b/
