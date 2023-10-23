@@ -43,15 +43,19 @@ Na segunda página, o dashboard se concentra no relatório de lucro e oferece as
 ![image](https://github.com/Gigatin/PowerBi-Projects/assets/56930645/1f80b984-57ca-4b05-8df4-b52031bf7174)
 
 - **Árvore Hierárquica de Lucro**: Mostra o total de lucro gerado, com expansões para lucro de cada ano e lucro por país.
+  
 ![image](https://github.com/Gigatin/PowerBi-Projects/assets/56930645/e37f787e-5956-4bba-a30a-c761185f6d2a)
 
 - **Treemap de Lucro por Segmentos**: Permite verificar o lucro por segmentos.
+ 
 ![image](https://github.com/Gigatin/PowerBi-Projects/assets/56930645/045ecbfa-d4ce-4e52-b01a-4c259686b2bb)
 
 - **Gráfico de Cascata de Lucro por Trimestre**: Mostra a soma do lucro por trimestre.
+  
 ![image](https://github.com/Gigatin/PowerBi-Projects/assets/56930645/ac9f854e-58ae-475f-b161-35cf7ef33a6e)
 
 - **Gráfico de Radar de Lucro por Produto**: Apresenta o lucro por produto.
+
 ![image](https://github.com/Gigatin/PowerBi-Projects/assets/56930645/e6acd5eb-5913-453f-89f2-5bc5ab66d864)
 
 ## Contato
