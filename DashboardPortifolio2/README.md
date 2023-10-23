@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-Este dashboard tem como objetivo demonstrar a popularidade dos candidatos em uma rede social, especificamente no Twitter. As informações apresentadas neste dashboard são resultado de um processo de coleta e análise de dados realizado com o auxílio de ferramentas como Python, Excel e Power Bi.
+Este dashboard tem como objetivo demonstrar a popularidade dos candidatos em uma rede social durante as eleições, especificamente no Twitter. As informações apresentadas neste dashboard são resultado de um processo de coleta e análise de dados realizado com o auxílio de ferramentas como Python, Excel e Power Bi.
 
 ## Processo de Coleta, tratamento e Análise
 
