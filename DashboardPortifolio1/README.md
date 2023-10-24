@@ -31,5 +31,5 @@ Os principais gráficos e visualizações do dashboard incluem:
 
 Se você tiver alguma dúvida ou desejar mais informações sobre este projeto, sinta-se à vontade para entrar em contato.
 
-- Email: seu_email@example.com
-- LinkedIn: [Seu Perfil no LinkedIn](link_do_seu_perfil)
+- Email: gabrielcaetano41@hotmail.com
+- LinkedIn: https://www.linkedin.com/in/gabriel-caetano-silva-motta-32181717b/
