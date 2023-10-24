@@ -37,7 +37,7 @@ Criamos um conjunto de relatórios com foco no desempenho dos colaboradores e de
 - Quantidade de departamentos por gerente.
 
 
-##Ressaltando todo o codigo SQL está comentado e detalhado da sua criação, inserção e analise de dados SQL
+## Ressaltando todo o codigo SQL está comentado e detalhado da sua criação, inserção e analise de dados SQL
 
 **Consulta SQL para Obter Colaboradores e Seus Gerentes:**
 
