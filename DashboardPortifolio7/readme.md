@@ -35,8 +35,7 @@ Para responder a algumas perguntas importantes, foram criadas as seguintes colun
 
 ```DAX
 MargemLucro = ROUND(DIVIDE(Vendas[Lucro], Vendas[Valor Venda]) * 100, 2)
-
-
+```
 ## Perguntas Respondidas pelo Dashboard
 
 ### 1. Qual foi o total de valor de vendas por modo de envio dos pedidos?
