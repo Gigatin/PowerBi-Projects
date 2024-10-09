@@ -12,7 +12,7 @@ Este repositório contém diversos dashboards voltados para análise de dados em
 
 ## Sumário
 
-1. [Análise de Vendas Globais](#analise-de-vendas-globais-1)
+1. [Análise de Vendas Globais](#DashboardPortifolio1)
 2. [Análise de Sentimentos de Redes Sociais em Contexto Político](#analise-de-sentimentos-de-redes-sociais-em-contexto-politico)
 3. [Análise de Faturamento de Plano de Saúde](#analise-de-faturamento-de-plano-de-saude)
 4. [Análise de Dados de um PetShop](#analise-de-dados-de-um-petshop)
