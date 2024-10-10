@@ -1,6 +1,6 @@
 # Dashboard de Vendas
 
-**Este Projeto é baseado no terceiro capitulode Power Bi do Curso de Power Bi para Data science da Data Science Academy**
+**Este Projeto é baseado no terceiro capitulo de Power Bi do Curso de Power Bi para Data science da Data Science Academy**
 
 Este projeto consiste em um **dashboard de vendas** que inclui modelagem de dados, criação de relacionamentos e fórmulas DAX para realizar análises e cálculos relacionados ao desempenho de vendas de uma empresa. O dashboard foi construído com base em quatro arquivos principais:
 
