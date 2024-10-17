@@ -19,7 +19,7 @@ Este repositório contém diversos dashboards voltados para análise de dados em
 5. [DashboardPortifolio5: Análise de Vendas Globais](#dashboardportifolio5)
 6. [DashboardPortifolio6: Análise de Departamento](#dashboardportifolio6)
 7. [DashboardPortifolio7: Análise de Vendas](#dashboardportifolio7)
-
+7. [DashboardPortifolio8: Análise de Marketing](#dashboardportifolio8).
 
 ## Como Usar
 
