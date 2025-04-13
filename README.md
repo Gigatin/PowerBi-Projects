@@ -12,14 +12,17 @@ Este repositório contém diversos dashboards voltados para análise de dados em
 
 ## Sumário
 
-1. [DashboardPortifolio1: Análise de Vendas Globais](#dashboardportifolio1)
-2. [DashboardPortifolio2: Análise de Sentimentos de Redes Sociais em Contexto Político](#dashboardportifolio2)
-3. [DashboardPortifolio3: Análise de Faturamento de Plano de Saúde](#dashboardportifolio3)
-4. [DashboardPortifolio4: Análise de Dados de um PetShop](#dashboardportifolio4)
-5. [DashboardPortifolio5: Análise de Vendas Globais](#dashboardportifolio5)
-6. [DashboardPortifolio6: Análise de Departamento](#dashboardportifolio6)
-7. [DashboardPortifolio7: Análise de Vendas](#dashboardportifolio7)
-7. [DashboardPortifolio8: Análise de Marketing](#dashboardportifolio8).
+1. [Projeto 1: Análise de Vendas Globais](#dashboardportifolio1)
+2. [Projeto 2: Análise de Sentimentos de Redes Sociais em Contexto Político](#dashboardportifolio2)
+3. [Projeto 3: Análise de Faturamento de Plano de Saúde](#dashboardportifolio3)
+4. [Projeto 4: Análise de Dados de um PetShop](#dashboardportifolio4)
+5. [Projeto 5: Análise de Vendas Globais](#dashboardportifolio5)
+6. [Projeto 6: Análise de Departamento](#dashboardportifolio6)
+7. [Projeto 7: Análise de Vendas](#dashboardportifolio7)
+8. [Projeto 8: Análise de Marketing](#dashboardportifolio8).
+9. [Projeto 9: Análise de Dados Comerciais](#dashboardportifolio8).
+
+
 
 ## Como Usar
 
