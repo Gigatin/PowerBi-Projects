@@ -35,14 +35,14 @@ Indicadores de desempenho utilizados para avaliar a eficiência do setor:
 
 ## 3. Perguntas Respondidas pelo Dashboard
 
-1. Total de funcionários atualmente na empresa.
-2. Tempo médio de experiência dos funcionários (em anos).
-3. Total e percentual de funcionários por gênero.
-4. Média salarial mensal dos funcionários.
-5. Total de funcionários por função/cargo.
-6. Percentual de funcionários disponíveis para hora extra.
-7. Nível de envolvimento dos funcionários no trabalho.
-8. (Adicional) Total e percentual de funcionários que devem receber promoção (não exibido no Dashboard).
+1. Total de funcionários atualmente na empresa?
+2. Tempo médio de experiência dos funcionários (em anos)?
+3. Total e percentual de funcionários por gênero?
+4. Média salarial mensal dos funcionários?
+5. Total de funcionários por função/cargo?
+6. Percentual de funcionários disponíveis para hora extra?
+7. Nível de envolvimento dos funcionários no trabalho?
+8. (Adicional) Total e percentual de funcionários que devem receber promoção (não exibido no Dashboard)?
 
 ---
 
