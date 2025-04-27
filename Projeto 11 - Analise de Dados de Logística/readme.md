@@ -1,5 +1,5 @@
 
-# Análise Logística
+# Dashboard Análise Logística
 
 Este projeto tem como objetivo corrigir e reformular um dashboard que apresentava informações erradas, focando na extração e apresentação correta dos dados.
 
