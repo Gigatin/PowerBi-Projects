@@ -62,6 +62,7 @@ O conjunto de dados utilizado neste projeto inclui as seguintes colunas:
 ## 6. Perguntas-Chave para o Dashboard
 
 ### 1. Evolução do Volume Negociado
+Qual foi o volume total de ações negociadas, ao longo do tempo, para cada uma das 6 empresas analisadas?
 
 **Volume Total de Ações Negociadas (2024-2025):**
 - Amazon: 41.705.483,92  
@@ -72,6 +73,7 @@ O conjunto de dados utilizado neste projeto inclui as seguintes colunas:
 - Microsoft: 21.398.441,60  
 
 ### 2. Médias Mensais dos Preços das Ações
+Qual é o valor médio mensal de abertura (Open), preço mais alto (High), mais baixo (Low) e de fechamento (Close) para as ações de cada empresa?
 
 | Empresa   | Open   | Low    | High   | Close  |
 |-----------|--------|--------|--------|--------|
@@ -83,6 +85,7 @@ O conjunto de dados utilizado neste projeto inclui as seguintes colunas:
 | Google    | 172,84 | 170,95 | 174,80 | 172,86 |
 
 ### 3. Variação Mensal do Preço de Fechamento
+Como variou, mês a mês, a média do preço de fechamento (Close) das ações de todas as empresas?
 
 #### 📦 Amazon (AMZN)
 - Crescimento moderado no 2º semestre.
