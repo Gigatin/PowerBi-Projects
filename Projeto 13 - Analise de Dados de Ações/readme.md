@@ -108,7 +108,7 @@ Como variou, mês a mês, a média do preço de fechamento (Close) das ações d
 - **Maior queda**: Maio (-24,37%)
 
 #### 📘 Meta (META)
-- Crescimento inicial, queda acentuada depois.
+- Crescimento inicial com queda acentuada, mas após volta a recuperar e é uma subida constante.
 - **Maior alta**: Fevereiro (+10,70%)
 - **Maior queda**: Março (-12,88%)
 
